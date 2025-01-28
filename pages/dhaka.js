@@ -704,7 +704,7 @@ export default function ExampleCity() {
             'What if I have more questions?': (
               <>
                 {/* TODO: Change [SLACKCHANNEL] to the name of your event's Slack channel */}
-                Contact us! Feel free to reach out to us in the scrapyard-dhaka
+                Contact us! Feel free to reach out to us in the scrapyard-dhaka-bd
                 channel on the Hack Club slack or email us at{' '}
                 {/* TODO: Change this email to your event's email */}
                 <Link href="mailto:dhaka@scrapyard.hackclub.com">
